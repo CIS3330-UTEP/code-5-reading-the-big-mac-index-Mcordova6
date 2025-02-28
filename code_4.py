@@ -51,7 +51,6 @@ if __name__ == "__main__":
     get_the_cheapest_big_mac_price_by_year(2012)
     get_the_most_expensive_big_mac_price_by_year(2012)
 
-
     # print(get_big_mac_price_by_year(2012,'arg'))
     # print(get_big_mac_price_by_country('arg'))
     # print(get_the_cheapest_big_mac_price_by_year(2008))
